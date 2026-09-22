@@ -21,9 +21,15 @@ name     → myam / мям / Sema / Сёма
 age      → 20
 vibe     → cute · dark · gothic · emo
 status   → не сплю до утра и дольше
+```
 𓆩♡𓆪
 
-<p align="center"> <img src="images/myam-03.jpg" width="100%"> </p>
+</div>
+
+<p align="center">
+  <img src="images/myam-03.jpg" width="100%">
+</p>
+
 𐙚 interests
 
 games
@@ -45,7 +51,12 @@ Rick and Morty
 
 ⋆｡°✩ ───────────── ✩°｡⋆
 
-<p align="center"> <img src="images/myam-04.jpg" width="85%"> </p>
+</div>
+
+<p align="center">
+  <img src="images/myam-04.jpg" width="85%">
+</p>
+
 🦇 dni
 
 base dni + all former friends / acquaintances
@@ -62,4 +73,4 @@ sorry, but some of you are genuinely weird as fuck, imo ♡
 
 questionable sleep schedule ♡
 
-</div> ```
+</div>
