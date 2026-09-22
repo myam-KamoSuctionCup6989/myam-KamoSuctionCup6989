@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="images/myam-01.jpg" width="85%">
+  <img src="images/myam-01.jpg.jpg" width="85%">
 </p>
 
 ## † about me
@@ -27,7 +27,7 @@ status   → не сплю до утра и дольше
 </div>
 
 <p align="center">
-  <img src="images/myam-03.jpg" width="100%">
+  <img src="images/myam-02.jpg.jpg" width="100%">
 </p>
 
 𐙚 interests
@@ -54,7 +54,7 @@ Rick and Morty
 </div>
 
 <p align="center">
-  <img src="images/myam-04.jpg" width="85%">
+  <img src="images/myam-03.jpg.jpg" width="85%">
 </p>
 
 🦇 dni
