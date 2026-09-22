@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="images/myam-01.jpg.jpg" width="85%">
+  <img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/18bb5fe1-bcb6-4f6e-975c-b56ebedacea5" width="85%">
 </p>
 
 ## † about me
@@ -27,7 +27,7 @@ status   → не сплю до утра и дольше
 </div>
 
 <p align="center">
-  <img src="images/myam-02.jpg.jpg" width="100%">
+  <img width="735" height="436" alt="Image" src="https://github.com/user-attachments/assets/0c9810ce-a9f8-411e-816f-15aa7617562c" width="100%">
 </p>
 
 𐙚 interests
@@ -54,7 +54,7 @@ Rick and Morty
 </div>
 
 <p align="center">
-  <img src="images/myam-03.jpg.jpg" width="85%">
+  <img width="736" height="414" alt="Image" src="https://github.com/user-attachments/assets/4d741ca3-cd9d-4f89-b20f-bbb43f9ab72c" width="85%">
 </p>
 
 🦇 dni
