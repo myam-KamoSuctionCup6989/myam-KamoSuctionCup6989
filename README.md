@@ -41,15 +41,19 @@ Danganronpa · Tower of Fantasy · Your Turn To Die · Reverse: 1999 ·
 Nu: Carnival · Wuthering Waves · OKEGOM · ZENO remake ·
 AFK Arena · AFK Journey · Guardian Tales · Cookie Run: Kingdom ·
 Cookie Run: OvenBreak · Cookie Run: Tower of Adventures ·
-Skullgirls · TRIBE NINE · Arknights · Arknights: Endfield
+Skullgirls · TRIBE NINE · Arknights · Arknights: Endfield ·
+Sky: Children of the Light · NTE: Neverness to Everness ·
+Duet Night Abyss · Umamusume: Pretty Derby · Mobile Legends: Bang Bang
 
 other interests
 
 Alien Stage · Tokyo Ghoul · Death Note · Bungou Stray Dogs ·
 My Hero Academia · Evangelion · Twitch · Supernatural ·
-Rick and Morty
+Rick and Morty · YouTube · Spotify
 
 my husband is my main interest. п-п
+
+<sub>I fucking luv music. ><</sub>
 
 ⋆｡°✩ ───────────── ✩°｡⋆
 
