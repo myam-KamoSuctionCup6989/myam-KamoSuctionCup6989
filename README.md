@@ -20,7 +20,7 @@
 name     → myam / мям / Sema / Сёма
 age      → 20
 vibe     → cute · dark · gothic · emo
-status   → не сплю до утра и дольше
+status   → awake until morning and beyond
 ```
 𓆩♡𓆪
 
@@ -48,6 +48,8 @@ other interests
 Alien Stage · Tokyo Ghoul · Death Note · Bungou Stray Dogs ·
 My Hero Academia · Evangelion · Twitch · Supernatural ·
 Rick and Morty
+
+my husband is my main interest. п-п
 
 ⋆｡°✩ ───────────── ✩°｡⋆
 
