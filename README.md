@@ -79,4 +79,8 @@ sorry, but some of you are genuinely weird as fuck, imo :) ♡
 
 questionable sleep schedule ♡
 
+<p align="center">
+  <img width="135" height="106" alt="Image" src="https://github.com/user-attachments/assets/b8be0e7a-11ea-45e3-8675-2a633dcd0833" />
+</p>
+
 </div>
