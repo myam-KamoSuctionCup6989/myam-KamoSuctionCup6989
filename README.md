@@ -80,7 +80,7 @@ sorry, but some of you are genuinely weird as fuck, imo :) ♡
 questionable sleep schedule ♡
 
 <p align="center">
-  <img width="135" height="106" alt="Image" src="https://github.com/user-attachments/assets/b8be0e7a-11ea-45e3-8675-2a633dcd0833" />
+  <img width="2149" height="732" alt="Image" src="https://github.com/user-attachments/assets/6670614c-ab74-4d6b-be34-f1dd2c2b11bb" />
 </p>
 
 <sub>I mainly hang out on the 18+ Russian server and only occasionally use the others.</sub>
